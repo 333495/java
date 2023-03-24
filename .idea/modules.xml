@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaWorkSpace.iml" filepath="$PROJECT_DIR$/.idea/IdeaWorkSpace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day003/day003.iml" filepath="$PROJECT_DIR$/day003/day003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day004/day004.iml" filepath="$PROJECT_DIR$/day004/day004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day005/day005.iml" filepath="$PROJECT_DIR$/day005/day005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day006/day006.iml" filepath="$PROJECT_DIR$/day006/day006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day007/day007.iml" filepath="$PROJECT_DIR$/day007/day007.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day008_package/day008_package.iml" filepath="$PROJECT_DIR$/day008_package/day008_package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01/day01.iml" filepath="$PROJECT_DIR$/day01/day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02/day02.iml" filepath="$PROJECT_DIR$/day02/day02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extends&amp;abstract/extends&amp;abstract.iml" filepath="$PROJECT_DIR$/extends&amp;abstract/extends&amp;abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g/g.iml" filepath="$PROJECT_DIR$/g/g.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studentmannagesystem/studentmannagesystem.iml" filepath="$PROJECT_DIR$/studentmannagesystem/studentmannagesystem.iml" />
+    </modules>
+  </component>
+</project>
