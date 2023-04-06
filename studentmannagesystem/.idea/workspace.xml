@@ -1,7 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce87f6fd-0597-47b1-9104-83dc44c003fa" name="变更" comment="" />
+    <list default="true" id="ce87f6fd-0597-47b1-9104-83dc44c003fa" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/../commonclass/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/commonclass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/date/CalendarTest05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/date/CalendarTest06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/date/DateFormat03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/date/DateFormat04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/date/DateTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/date/DateTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/exception/ExceptionTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/exception/ExceptionTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/exception/ExceptionTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/exception/ExceptionTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/exception/LoginExceptionTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/exception/LoginExceptionTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/random01/RandomTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/random01/RandomTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/random01/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/random01/ThreadLocalRandomTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/random01/ThreadLocalRandomTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/random01/UUID01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/random01/UUID02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/runtime/RuntimeTes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/system/Garbage02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/system/SystemTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/system/SystemTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day006/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day006/.idea/libraries/src.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day006/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day006/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day006/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day006/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day016_regex&amp;thread/day016_regex&amp;thread.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day016_regex&amp;thread/src/org/cfx/_01regex/RegexTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day016_regex&amp;thread/src/org/cfx/_02thread/_01demo_extends/GameThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day016_regex&amp;thread/src/org/cfx/_02thread/_01demo_extends/MusicThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day016_regex&amp;thread/src/org/cfx/_02thread/_01demo_extends/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day016_regex&amp;thread/src/org/cfx/_02thread/_02demo_implements/GameThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day016_regex&amp;thread/src/org/cfx/_02thread/_02demo_implements/MusicThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day016_regex&amp;thread/src/org/cfx/_02thread/_02demo_implements/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day016_regex&amp;thread/src/org/cfx/_02thread/_02saleticket_extends/SaleTicket01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day016_regex&amp;thread/src/org/cfx/_02thread/_02saleticket_extends/SaleTicket01Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day016_regex&amp;thread/src/org/cfx/_02thread/_02saleticket_extends/SellTicket01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day016_regex&amp;thread/src/org/cfx/_02thread/_02saleticket_extends/SellTicket02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day016_regex&amp;thread/src/org/cfx/_02thread/_02saleticket_extends/SellTicket03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day016_regex&amp;thread/src/org/cfx/_02thread/_02saleticket_extends/SellTicket04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day016_regex&amp;thread/src/org/cfx/_02thread/_02saleticket_extends/SellTicketTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day016_regex&amp;thread/src/org/cfx/_02thread/_02saleticket_extends/SellTicketTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day016_regex&amp;thread/src/org/cfx/_02thread/_02saleticket_extends/SellTicketTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day016_regex&amp;thread/src/org/cfx/_02thread/_02saleticket_extends/SellTicketTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day016_regex&amp;thread/src/org/cfx/_02thread/_04saleticket_implements/SaleTicket01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day016_regex&amp;thread/src/org/cfx/_02thread/_04saleticket_implements/SaleTicket02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day016_regex&amp;thread/src/org/cfx/_02thread/_04saleticket_implements/SaleTicket03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day016_regex&amp;thread/src/org/cfx/_02thread/_04saleticket_implements/SaleTicket04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day016_regex&amp;thread/src/org/cfx/_02thread/_04saleticket_implements/SaleTicketTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day016_regex&amp;thread/src/org/cfx/_02thread/_04saleticket_implements/SaleTicketTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day016_regex&amp;thread/src/org/cfx/_02thread/_04saleticket_implements/SaleTicketTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day016_regex&amp;thread/src/org/cfx/_02thread/_04saleticket_implements/SaleTicketTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day016_regex&amp;thread/src/org/cfx/_02thread/_04saleticket_implements/SellTicket01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day016_regex&amp;thread/src/org/cfx/_02thread/_04saleticket_implements/SellTicketTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day016_regex&amp;thread/src/org/cfx/_02thread/test/SaleTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day016_regex&amp;thread/src/org/cfx/_02thread/test/TicketSeller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day017_timer&amp;data/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day017_timer&amp;data/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day017_timer&amp;data/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day017_timer&amp;data/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day017_timer&amp;data/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day017_timer&amp;data/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day017_timer&amp;data/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day017_timer&amp;data/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day017_timer&amp;data/day017_timer&amp;data.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day017_timer&amp;data/src/org/cfx/_01timer/TimerTask02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day017_timer&amp;data/src/org/cfx/_01timer/_02TimerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day017_timer&amp;data/src/org/cfx/_02IntArray/_01IntArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day017_timer&amp;data/src/org/cfx/_02IntArray/_02IntArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day017_timer&amp;data/src/org/cfx/_02IntArray/_02IntArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day017_timer&amp;data/src/org/cfx/_03customarray/ChenArray01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day017_timer&amp;data/src/org/cfx/_03customarray/ChenArray01Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day017_timer&amp;data/src/org/cfx/_03customarray/ChenArray02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day017_timer&amp;data/src/org/cfx/_03customarray/ChenArray02Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day017_timer&amp;data/src/org/cfx/_03customarray/NotFound01Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day017_timer&amp;data/src/org/cfx/_03customarray/NotFound02Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day017_timer&amp;data/src/org/cfx/_03customarray/User01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day017_timer&amp;data/src/org/cfx/_03customarray/User02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/idea&amp;common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/bigdecimal05/BigDecimal01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/bigdecimal05/BigDecimal02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/bigdecimal05/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/bigdecimal05/VerificationCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/idea01/Idea01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/math04/Math01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/math04/Math02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/pack03/IntegerTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/pack03/IntegerTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/pack03/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/pack03/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/pack03/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/pack03/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringBufferTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringBufferTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringBuilderTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringBuilderTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../summarize/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../summarize/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../summarize/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../summarize/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../summarize/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../summarize/src/org/cfx/summarize/test1/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../summarize/summarize.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day005/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day005/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day006/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day006/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day006/day006.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day006/day006.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day006/src/Method02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day006/src/Method02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day007/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day007/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../g/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../g/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +144,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/org/cfx/studentmannagesystem/StudentMain.java" root0="FORCE_HIGHLIGHTING" />
@@ -65,6 +199,7 @@
       <workItem from="1679389745664" duration="5036000" />
       <workItem from="1679447145810" duration="824000" />
       <workItem from="1679448676488" duration="804000" />
+      <workItem from="1680765015677" duration="46000" />
     </task>
     <servers />
   </component>

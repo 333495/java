@@ -1,7 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88fc8d2c-cdea-4530-bf52-6876c5d4d2a9" name="变更" comment="" />
+    <list default="true" id="88fc8d2c-cdea-4530-bf52-6876c5d4d2a9" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/../commonclass/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/commonclass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/date/CalendarTest05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/date/CalendarTest06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/date/DateFormat03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/date/DateFormat04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/date/DateTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/date/DateTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/exception/ExceptionTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/exception/ExceptionTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/exception/ExceptionTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/exception/ExceptionTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/exception/LoginExceptionTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/exception/LoginExceptionTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/random01/RandomTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/random01/RandomTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/random01/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/random01/ThreadLocalRandomTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/random01/ThreadLocalRandomTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/random01/UUID01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/random01/UUID02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/runtime/RuntimeTes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/system/Garbage02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/system/SystemTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/system/SystemTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day006/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day006/.idea/libraries/src.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day006/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day006/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day006/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day006/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/idea&amp;common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/bigdecimal05/BigDecimal01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/bigdecimal05/BigDecimal02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/bigdecimal05/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/bigdecimal05/VerificationCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/idea01/Idea01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/math04/Math01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/math04/Math02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/pack03/IntegerTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/pack03/IntegerTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/pack03/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/pack03/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/pack03/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/pack03/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringBufferTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringBufferTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringBuilderTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringBuilderTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../summarize/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../summarize/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../summarize/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../summarize/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../summarize/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../summarize/src/org/cfx/summarize/test1/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../summarize/summarize.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day006/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day006/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day006/day006.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day006/day006.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day006/src/Method02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day006/src/Method02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../g/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../g/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +91,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -23,12 +103,13 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/Arr02.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/ArrTest1.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Arr01.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Arr02.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Arr03.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/ArrTest1.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2N1xZDTpsK67uolTPxDxugOHTj7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -112,6 +193,7 @@
       <workItem from="1678869632419" duration="3881000" />
       <workItem from="1678876050790" duration="5000" />
       <workItem from="1678930945177" duration="41000" />
+      <workItem from="1680141644343" duration="13000" />
     </task>
     <servers />
   </component>

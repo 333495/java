@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb2c721b-2dda-45df-b3b3-921b107a3337" name="变更" comment="" />
+    <list default="true" id="bb2c721b-2dda-45df-b3b3-921b107a3337" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/src.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/idea&amp;common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/bigdecimal05/BigDecimal01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/bigdecimal05/BigDecimal02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/bigdecimal05/VerificationCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/idea01/Idea01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/math04/Math01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/math04/Math02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/pack03/IntegerTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/pack03/IntegerTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/pack03/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/pack03/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/pack03/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/pack03/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringBufferTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringBufferTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringBuilderTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringBuilderTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringTest04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day006.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day006.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Method02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Method02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../g/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../g/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +52,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -23,36 +64,30 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="2N4kx7wLCL2LBUYoo3LawBh28CI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.MethodTest07">
+  <component name="RunManager" selected="应用程序.NumberGuessingGame (1)">
     <configuration name="MethodTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MethodTest03" />
-      <module name="day006" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MethodTest04" />
-      <module name="day006" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MethodTest05" />
       <module name="day006" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,13 +107,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NumberGuessingGame (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="NumberGuessingGame" />
+      <module name="day006" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberGuessingGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="NumberGuessingGame" />
+      <module name="day006" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.NumberGuessingGame (1)" />
+        <item itemvalue="应用程序.NumberGuessingGame" />
         <item itemvalue="应用程序.MethodTest07" />
         <item itemvalue="应用程序.MethodTest03" />
         <item itemvalue="应用程序.MethodTest06" />
-        <item itemvalue="应用程序.MethodTest05" />
-        <item itemvalue="应用程序.MethodTest04" />
       </list>
     </recent_temporary>
   </component>
@@ -94,10 +147,26 @@
       <workItem from="1678959244022" duration="8543000" />
       <workItem from="1679017682372" duration="52000" />
       <workItem from="1679109884825" duration="236000" />
+      <workItem from="1679987224862" duration="312000" />
+      <workItem from="1679987568570" duration="161000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Method02.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/day006$NumberGuessingGame.ic" NAME="NumberGuessingGame 覆盖结果" MODIFIED="1679987372116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe3cbb3a-60bf-4589-be7b-89b3de65baef" name="变更" comment="" />
+    <list default="true" id="fe3cbb3a-60bf-4589-be7b-89b3de65baef" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/idea&amp;common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/bigdecimal05/BigDecimal01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/bigdecimal05/BigDecimal02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/bigdecimal05/VerificationCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/idea01/Idea01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/math04/Math01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/math04/Math02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/pack03/IntegerTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/pack03/IntegerTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/pack03/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/pack03/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/pack03/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/pack03/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringBufferTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringBufferTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringBuilderTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringBuilderTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea&amp;common/src/org/cfx/string02/StringTest04.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +43,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -24,6 +55,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="2NBHt8WMa0Bgq00grnPf3jVLftu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -80,6 +112,7 @@
       <workItem from="1679380339191" duration="18000" />
       <workItem from="1679389056817" duration="680000" />
       <workItem from="1679448157798" duration="512000" />
+      <workItem from="1679987199032" duration="24000" />
     </task>
     <servers />
   </component>
