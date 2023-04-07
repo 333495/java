@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19e8da61-dcdf-4226-b982-8d0eb301b6df" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/../commonclass/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/commonclass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/random01/RandomTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/random01/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/random01/ThreadLocalRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/random01/UUid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/runtime/RuntimeTes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/system/Garbage02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commonclass/src/org/cfx/commonclass/system/SystemTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day006/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day006/.idea/libraries/src.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day006/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day006/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day006/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day006/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/idea&amp;common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/cfx/bigdecimal05/BigDecimal01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/cfx/bigdecimal05/BigDecimal02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/cfx/bigdecimal05/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/cfx/bigdecimal05/VerificationCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/cfx/idea01/Idea01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/cfx/math04/Math01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/cfx/math04/Math02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/cfx/pack03/IntegerTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/cfx/pack03/IntegerTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/cfx/pack03/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/cfx/pack03/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/cfx/pack03/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/cfx/pack03/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/cfx/string02/StringBufferTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/cfx/string02/StringBufferTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/cfx/string02/StringBuilderTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/cfx/string02/StringBuilderTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/cfx/string02/StringTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/cfx/string02/StringTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/cfx/string02/StringTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/cfx/string02/StringTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../summarize/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../summarize/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../summarize/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../summarize/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../summarize/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../summarize/src/org/cfx/summarize/test1/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../summarize/summarize.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day006/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day006/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day006/day006.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day006/day006.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day006/src/Method02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day006/src/Method02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../g/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../g/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2NZrox4iPXp9Gt1zGEHTis0ep1x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="项目" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.cfx.bigdecimal05" />
+      <recent name="org.cfx.pack03" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Validator">
+    <configuration name="GuessingGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.cfx.bigdecimal05.GuessingGame" />
+      <module name="idea&amp;common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cfx.bigdecimal05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuessingGames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.cfx.bigdecimal05.GuessingGames" />
+      <module name="idea&amp;common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cfx.bigdecimal05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintLastSegment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.cfx.string02.PrintLastSegment" />
+      <module name="idea&amp;common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cfx.string02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Validator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.cfx.bigdecimal05.Validator" />
+      <module name="idea&amp;common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cfx.bigdecimal05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerificationCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.cfx.bigdecimal05.VerificationCode" />
+      <module name="idea&amp;common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cfx.bigdecimal05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Validator" />
+        <item itemvalue="应用程序.GuessingGames" />
+        <item itemvalue="应用程序.GuessingGame" />
+        <item itemvalue="应用程序.VerificationCode" />
+        <item itemvalue="应用程序.PrintLastSegment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="19e8da61-dcdf-4226-b982-8d0eb301b6df" name="变更" comment="" />
+      <created>1679882625119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679882625119</updated>
+      <workItem from="1679882626331" duration="611000" />
+      <workItem from="1679887885182" duration="17587000" />
+      <workItem from="1679983166842" duration="40000" />
+      <workItem from="1679983219102" duration="3759000" />
+      <workItem from="1679987733885" duration="4296000" />
+      <workItem from="1679994777450" duration="208000" />
+      <workItem from="1680060185867" duration="63000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
