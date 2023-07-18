@@ -1,7 +1,10 @@
 package org.cfx._03studentmanagementsystem.manager;
 
 import org.cfx._03studentmanagementsystem.StudentMangeMenSystem;
+import org.cfx._03studentmanagementsystem.data.DataContext;
+import org.cfx._03studentmanagementsystem.entity.Admin;
 
+import java.util.Collection;
 import java.util.Scanner;
 
 /**
@@ -25,15 +28,15 @@ public class MenuManager {
         switch (choose) {
             case "1":
                 //1. 查询所有学员
-                StudentMangeMenSystem.studentManager.FindAllStudent();
+                StudentMangeMenSystem.studentManager.findAllStudent();
                 break;
             case "2":
                 //2. 查询指定学员
-                StudentMangeMenSystem.studentManager.FindStudentById();
+                StudentMangeMenSystem.studentManager.findStudentById();
                 break;
             case "3":
                 //3. 添加学员
-                StudentMangeMenSystem.studentManager.AddStudent();
+                StudentMangeMenSystem.studentManager.addStudent();
                 break;
             case "4":
                 //4. 修改学员

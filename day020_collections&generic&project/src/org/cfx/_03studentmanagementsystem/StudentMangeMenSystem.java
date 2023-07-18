@@ -27,5 +27,7 @@ public class StudentMangeMenSystem {
         }else {
             System.out.println("登录失败！");
         }
+
+//        adminManager.select();
     }
 }

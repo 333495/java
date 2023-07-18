@@ -1,8 +1,5 @@
 package org.cfx._02generic;
 
-import org.cfx.Book;
-import org.cfx.User;
-
 import java.util.ArrayList;
 
 /**

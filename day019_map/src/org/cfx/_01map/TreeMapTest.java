@@ -2,7 +2,6 @@ package org.cfx._01map;
 
 import org.cfx.Dog;
 import org.cfx.DogComparator;
-import org.cfx.User;
 
 import java.util.Map;
 import java.util.TreeMap;

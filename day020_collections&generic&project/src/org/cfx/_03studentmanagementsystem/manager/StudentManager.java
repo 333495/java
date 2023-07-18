@@ -27,16 +27,15 @@ public class StudentManager {
     /**
      * 查询所有
      */
-    public void FindAllStudent() {
+    public void findAllStudent() {
         DataContext.students.values().forEach(System.out::println);
         StudentMangeMenSystem.menuManager.showMenu();
-        return;
     }
 
     /**
      * 根据ID查学生
      */
-    public void FindStudentById() {
+    public void findStudentById() {
         System.out.println("请输入学生ID：");
         String stuId = scanner.next();
         //System.out.println(DataContext.students.containsKey(stuId));
@@ -53,7 +52,7 @@ public class StudentManager {
     /**
      *  增加学员
      */
-   public void AddStudent() {
+   public void addStudent() {
        System.out.println("请输入学生ID：");
        String stuId = scanner.next();
        if (DataContext.students.containsKey(stuId)) {
@@ -76,7 +75,7 @@ public class StudentManager {
         }
         DataContext.students.remove(stuId);
         System.out.println("删除成功！");
-        FindAllStudent();
+        findAllStudent();
         scanner.close();
     }
 
@@ -105,7 +104,7 @@ public class StudentManager {
         String stuGender = scanner.next();
         DataContext.students.put(stuId,new Student(Integer.parseInt(stuId),stuName,Integer.parseInt(stuAge),Boolean.parseBoolean(stuGender)));
         System.out.println("操作成功！");
-        FindAllStudent();
+        findAllStudent();
         scanner.close();
 
     }

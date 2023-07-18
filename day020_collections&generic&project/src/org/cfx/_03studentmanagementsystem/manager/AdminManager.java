@@ -3,6 +3,7 @@ package org.cfx._03studentmanagementsystem.manager;
 import org.cfx._03studentmanagementsystem.data.DataContext;
 import org.cfx._03studentmanagementsystem.entity.Admin;
 
+import java.util.Collection;
 import java.util.Scanner;
 
 /**
@@ -27,5 +28,13 @@ public class AdminManager {
             return false;
         }
         return DataContext.admins.get(username).getPassword().equals(password);
+    }
+
+    public Collection<Admin> select() {
+        Collection<Admin> values = DataContext.admins.values();
+        System.out.println(values);
+
+        return values;
+
     }
 }

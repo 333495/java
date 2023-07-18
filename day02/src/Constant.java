@@ -1,6 +1,7 @@
 
 /**
  * 常量：不会变化的数据.
+ * @author RTX 9090
  */
 public class Constant {
 

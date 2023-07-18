@@ -2,7 +2,6 @@ package org.cfx._03set;
 
 import org.cfx.Person;
 import org.cfx.PersonComparator;
-import org.cfx.User;
 
 import java.util.Iterator;
 import java.util.Set;
