@@ -15,7 +15,7 @@ public class Cast05 {
 
         int a = 3;
         int b = 5;
-        System.out.println(a++ >= b--);
+        System.out.println(a++ >= b++);
         System.out.println(a);
         System.out.println(b);
         System.out.println(++a >= b--);
@@ -63,8 +63,8 @@ public class Cast05 {
          * i 10
          */
         int i=10;
-        int j=(i++)+(++i);
-        int k=(--i)+(i--);
+        int j=(i++)+(++i);//
+        int k=(i--)+(--i);
         System.out.println(i);
         System.out.println(j);
         System.out.println(k);

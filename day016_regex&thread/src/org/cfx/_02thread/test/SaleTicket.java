@@ -13,7 +13,7 @@ public class SaleTicket implements Runnable{
     public void run() {
         while (true) {
             BigDecimal i = new BigDecimal(new Random().nextInt());
-            BigDecimal j = new BigDecimal(Math.random());
+            BigDecimal j = BigDecimal.valueOf(Math.random());
             //BigDecimal divide(BigDecimal divisor, int scale, int roundingMode)
 
             BigDecimal divide = i.divide(j, 1000, RoundingMode.FLOOR);

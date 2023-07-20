@@ -18,7 +18,7 @@ public class Cast01 {
         float f = cc;
 
         //大转小 强行转换语法: 数据类型变量名 =(要转换的数据类型)值;
-        long l = (long)f;//把float类型装进long类型 不可以直接装。需要用强制转换。
+        long l = (long) f;//把float类型装进long类型 不可以直接装。需要用强制转换。
 
         //char是字符，是ascii表示。
 
@@ -37,6 +37,12 @@ public class Cast01 {
         float ff = 2.0f;
         float fff = ff + b4;//当运算的算式中存在数据类型大丁int的算式最后的结果值取决于精度最高的数据类型
 
+
+        System.out.println("============");
+        long l1 = 11111111111L;
+        long l2 = 11111111111L;
+        long l3 = l1 + l2;
+        System.out.println(l3);
 
         int a2 = 2122222222;
         int a3 = 2122222222;

@@ -1,5 +1,8 @@
 package com.cfx.Test;
 
+import com.cfx.Mapper.StudentMapper;
+import com.cfx.Service.IStudentService;
+import com.cfx.Service.Impl.StudentServiceImpl;
 import com.cfx.Student.Student;
 
 import java.util.Scanner;
@@ -19,5 +22,6 @@ public class Test {
         String name = scanner.nextLine();
         System.out.println("======================");
         System.out.println("id是：" + id + "\t\n" + "姓名：" + name);
+
     }
 }

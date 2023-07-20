@@ -6,6 +6,9 @@ import com.cfx.Student.Student;
 
 import java.util.List;
 
+/**
+ * @author RTX 9090
+ */
 public class StudentServiceImpl implements IStudentService {
     @Override
     public List<Student> selectAll() {

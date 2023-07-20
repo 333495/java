@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 /**
  * 统计int数组中奇数的个数
  * 统计int数组中出现次数最多的元素（选做）//统计int数组中平均值
@@ -20,9 +22,31 @@ public class Test01 {
         int[] number = new int[]{1,1,1,1,2,2,3,3,3,4};
         int count2 = 0;
         for (int i = 0; i < number.length; i++) {
-
-            System.out.println(count2);
+            count2 += number[i];
         }
+        double avg = count2;
+        System.out.println(avg / number.length);
+
+
+        int[] array = new int[number.length];
+        for (int i = 0; i < number.length; i++) {
+            int temp = 1;
+            for (int j = i + 1; j < number.length; j++) {
+                if (number[i] == number[j]) {
+                    temp++;
+                }
+            }
+            array[i] = temp;
+        }
+        System.out.println(Arrays.toString(array));
+
+        int maxIndex = 0;
+        for (int i = 0; i < array.length; i++) {
+            if (array[i] > array[maxIndex]) {
+                maxIndex = i;
+            }
+        }
+        System.out.println(number[maxIndex]);
 
         System.out.println("===========3============");
         int[] num2 = new int[]{1,2,3,4,5,6,7,8,9,10,12};

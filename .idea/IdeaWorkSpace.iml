@@ -6,6 +6,13 @@
       <sourceFolder url="file://$MODULE_DIR$/day012_interface&amp;polymorphic/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/day021-file/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/day020_collections&amp;generic&amp;project/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/commonclass/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day013_static&amp;final&amp;innterclass&amp;outer/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day016_regex&amp;thread/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day017_timer&amp;data/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day022-io/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day018_linked&amp;Collection/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day019_map/src" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="17" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />

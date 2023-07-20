@@ -6,18 +6,17 @@ import java.util.Random;
 public class Test1 {
     public static void main(String[] args) {
 //        int[] nums = Add(5);
-        int[] nums = new int[]{1, 1, 1, 1, 2, 2, 8, 7, 3, 34, 4, 4};
+        int[] nums = new int[]{0, 1, 1, 1, 2, 2, 8, 7, 3, 34, 4, 4};
         int sum = 0;
         for (int i = 0; i < nums.length; i++) {
             sum += nums[i];
         }
         double avg = sum;
-        System.out.println(avg / nums.length);
+        System.out.println(avg / nums.length);//平均值
 
 
         int[] array = new int[nums.length];
         for (int i = 0; i < nums.length; i++) {
-
             int temp = 1;
             for (int j = i + 1; j < nums.length; j++) {
                 if (nums[i] == nums[j]) {
@@ -26,6 +25,10 @@ public class Test1 {
             }
             array[i] = temp;
         }
+//        for (int a:array
+//             ) {
+//            System.out.println(a);
+//        }
         int maxIndex = 0;
         for (int i = 0; i < array.length; i++) {
             if (array[i] > array[maxIndex]) {

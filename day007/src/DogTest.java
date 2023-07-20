@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-import static org.junit.Assert.*;
-
 /**
  * 狗的测试类
  */

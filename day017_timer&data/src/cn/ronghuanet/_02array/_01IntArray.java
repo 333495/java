@@ -1,7 +1,5 @@
 package cn.ronghuanet._02array;
 
-import sun.security.util.Length;
-
 /**
  * 存放数据
  *      add

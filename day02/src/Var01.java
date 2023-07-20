@@ -1,3 +1,6 @@
+/**
+ * @author RTX 9090
+ */
 public class Var01 {
     static int s;
     public static final String s1 = "李四";

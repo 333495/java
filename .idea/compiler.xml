@@ -4,6 +4,20 @@
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
     </annotationProcessing>
-    <bytecodeTargetLevel target="16" />
+    <bytecodeTargetLevel target="17">
+      <module name="day003" target="" />
+      <module name="day004" target="" />
+      <module name="day005" target="" />
+      <module name="day006" target="" />
+      <module name="day007" target="" />
+      <module name="day008_package" target="" />
+      <module name="day01" target="" />
+      <module name="day02" target="" />
+      <module name="extends&amp;abstract" target="" />
+      <module name="g" target="" />
+      <module name="IdeaWorkSpace" target="" />
+      <module name="studentmannagesystem" target="" />
+      <module name="studentmannagesystempro" target="" />
+    </bytecodeTargetLevel>
   </component>
 </project>

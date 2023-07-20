@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 /**
  * 三目运算
  *      x ? y : z
@@ -22,6 +24,8 @@ public class Cast07 {
 
         //3.假如有abc三个变量，求abc最小数字。
 
+        int m = 11,n = 12,l = 13,k = 14;
+        System.out.println(m > n ? n : n > l ? l : l > k ? k : m);
 
     }
 }

@@ -16,6 +16,7 @@ public class ScannerTest01 {
             System.out.println("请输入第三个数：");
             int c = scanner.nextInt();//接收键盘值
             System.out.println("最大的数字是：" +(a<b ? (b<c ? c : b) : (a<c ? c : a)));
+            System.out.println("最小的数字是：" +(a > b ? (b > c ? c : b) : (a > c ? c : a)));
         }
     }
 }

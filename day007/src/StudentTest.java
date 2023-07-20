@@ -1,4 +1,3 @@
-import static org.junit.Assert.*;
 
 /**
  * 学生测试类

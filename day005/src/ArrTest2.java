@@ -12,7 +12,7 @@ public class ArrTest2 {
                 max = nums[i];
             }
 
-            if (nums[i] < min) {
+            if (nums[i] <= min) {
                 min = nums[i];
             }
             sum += nums[i];

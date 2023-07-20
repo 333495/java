@@ -15,8 +15,7 @@ public class Arr01 {
          */
 
         //动态初始化
-        String[] c;
-        c = new String[5];
+        String[] c = new String[5];
         /*
             c = new String[5];
             new ---表示开辟空间
