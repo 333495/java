@@ -13,8 +13,20 @@
       <sourceFolder url="file://$MODULE_DIR$/day022-io/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/day018_linked&amp;Collection/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/day019_map/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/summarize/src" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="17" jdkType="JavaSDK" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/day028_jdbc/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/day028_jdbc/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" exported="" name="lib" level="project" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

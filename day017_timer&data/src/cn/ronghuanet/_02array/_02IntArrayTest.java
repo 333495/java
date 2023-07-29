@@ -12,7 +12,7 @@ public class _02IntArrayTest {
         intArray.add(6);
         System.out.println(intArray.length());
 //        intArray.add("ddd");
-//        intArray.add(new User());
+//        intArray.add(new User2());
 //        intArray.add(new Dog());
 
     }

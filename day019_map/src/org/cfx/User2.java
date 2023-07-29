@@ -2,28 +2,28 @@ package org.cfx;
 
 import java.util.Objects;
 
-public class User implements Comparable{
+public class User2 implements Comparable{
     String name;
     Integer age;
 
-    public User(String name, Integer age) {
+    public User2(String name, Integer age) {
         this.name = name;
         this.age = age;
     }
 
-    public User(String name) {
+    public User2(String name) {
         this.name = name;
     }
 
-    public User() {
+    public User2() {
     }
 
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
-        if (!(o instanceof User)) return false;
-        User user = (User) o;
-        return Objects.equals(name, user.name) && Objects.equals(age, user.age);
+        if (!(o instanceof User2)) return false;
+        User2 user2 = (User2) o;
+        return Objects.equals(name, user2.name) && Objects.equals(age, user2.age);
     }
 
     @Override
@@ -33,7 +33,7 @@ public class User implements Comparable{
 
     @Override
     public String toString() {
-        return "User{" +
+        return "User2{" +
                 "name='" + name + '\'' +
                 ", password='" + age + '\'' +
                 '}';
@@ -42,13 +42,13 @@ public class User implements Comparable{
 
     @Override
     public int compareTo(Object o) {
-        User user = (User) o;
-        if (this.age > user.age){
+        User2 user2 = (User2) o;
+        if (this.age > user2.age){
             return 1;
-        }else if (this.age < user.age){
+        }else if (this.age < user2.age){
             return -1;
         }else {
-            return this.name.compareTo(user.name);
+            return this.name.compareTo(user2.name);
         }
     }
 }

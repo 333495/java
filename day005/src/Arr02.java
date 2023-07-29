@@ -6,6 +6,8 @@ public class Arr02 {
     public static void main(String[] args) {
        //定义数组
         int[] i = new int[]{1,2,3,4,5};
+        int[] j = {1,2,3};
+        int[] k = new int[2];
         //取值    数组名[索引]
         System.out.println(i[1]);
         //赋值

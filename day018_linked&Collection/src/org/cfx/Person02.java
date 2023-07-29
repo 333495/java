@@ -1,6 +1,5 @@
 package org.cfx;
 
-import java.util.Comparator;
 import java.util.Objects;
 
 /**
@@ -35,10 +34,9 @@ public class Person02 implements Comparable {
         if (this == o) {
             return true;
         }
-        if (!(o instanceof Person02)) {
+        if (!(o instanceof Person02 person02)) {
             return false;
         }
-        Person02 person02 = (Person02) o;
         return Objects.equals(name, person02.name) && Objects.equals(age, person02.age);
     }
 
@@ -53,13 +51,14 @@ public class Person02 implements Comparable {
      */
     @Override
     public int compareTo(Object o) {
-        User user = (User) o;
-        if (user.age > this.age) {
+        User2 user2 = (User2) o;
+        if (user2.age > this.age) {
             return 1;
-        }else if (user.age < this.age) {
+        }else if (user2.age < this.age) {
             return -1;
-        }else{
-            return 0;
+        }else if (user2.age.compareTo(this.age) > 0) {
+            return 1;
         }
+        return 0;
     }
 }

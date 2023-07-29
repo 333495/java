@@ -11,8 +11,13 @@
       <module fileurl="file://$PROJECT_DIR$/day008_package/day008_package.iml" filepath="$PROJECT_DIR$/day008_package/day008_package.iml" />
       <module fileurl="file://$PROJECT_DIR$/day01/day01.iml" filepath="$PROJECT_DIR$/day01/day01.iml" />
       <module fileurl="file://$PROJECT_DIR$/day02/day02.iml" filepath="$PROJECT_DIR$/day02/day02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day023_java8/day023_java8.iml" filepath="$PROJECT_DIR$/day023_java8/day023_java8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day024_Javabean/day024_Javabean.iml" filepath="$PROJECT_DIR$/day024_Javabean/day024_Javabean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day025_test/day025_test.iml" filepath="$PROJECT_DIR$/day025_test/day025_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day028_jdbc/day028_jdbc.iml" filepath="$PROJECT_DIR$/day028_jdbc/day028_jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/extends&amp;abstract/extends&amp;abstract.iml" filepath="$PROJECT_DIR$/extends&amp;abstract/extends&amp;abstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/g/g.iml" filepath="$PROJECT_DIR$/g/g.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytest_01/mytest_01.iml" filepath="$PROJECT_DIR$/mytest_01/mytest_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/studentmannagesystem/studentmannagesystem.iml" filepath="$PROJECT_DIR$/studentmannagesystem/studentmannagesystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/studentmannagesystempro/studentmannagesystempro.iml" filepath="$PROJECT_DIR$/studentmannagesystempro/studentmannagesystempro.iml" />
     </modules>

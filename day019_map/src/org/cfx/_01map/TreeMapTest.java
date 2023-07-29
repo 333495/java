@@ -2,6 +2,7 @@ package org.cfx._01map;
 
 import org.cfx.Dog;
 import org.cfx.DogComparator;
+import org.cfx.User2;
 
 import java.util.Map;
 import java.util.TreeMap;
@@ -31,10 +32,10 @@ public class TreeMapTest {
         System.out.println("=======================根据key来排序=======================");
 
         TreeMap treeMap2 = new TreeMap();
-        treeMap2.put(new User("as",20),1);
-        treeMap2.put(new User("qq",22),1);
-        treeMap2.put(new User("cmd",19),123);
-        treeMap2.put(new User("opq",19),12);
+        treeMap2.put(new User2("as",20),1);
+        treeMap2.put(new User2("qq",22),1);
+        treeMap2.put(new User2("cmd",19),123);
+        treeMap2.put(new User2("opq",19),12);
         System.out.println(treeMap2);
 
         System.out.println("==============================================");

@@ -2,6 +2,7 @@ package org.cfx._03set;
 
 import org.cfx.Person;
 import org.cfx.PersonComparator;
+import org.cfx.User;
 
 import java.util.Iterator;
 import java.util.Set;
@@ -60,7 +61,7 @@ public class TreeSetTest {
 
 
         /*
-            ClassCastException: class org.cfx.User cannot be cast to class java.lang.Comparable
+            ClassCastException: class org.cfx.User2 cannot be cast to class java.lang.Comparable
             因为TreeSet 是排序的 但是我们给的User对象 是没有排序功能的
             方案一：自然排序 所以我要给User对象增加排序功能 Comparable接口 能排序的 实现 compareTo方法
          */

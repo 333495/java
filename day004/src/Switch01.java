@@ -42,7 +42,6 @@ public class Switch01 {
             switch (numVip){
                 case "1":
                     System.out.println("您是尊贵的VIP1级会员\n");
-                    break;
                 case "2":
                     System.out.println("您是尊贵的VIP2级会员，很牛皮\n");
                     break;
