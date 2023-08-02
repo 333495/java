@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<!--根元素，里面就是Mybatis配置-->
+<configuration>
+    <!--    环境配置：数据库的配置环境(怎么连接数据库) ，
+            可以配置多个环境对象 environment，多个数据库的连接配置，
+            可以通过  default="development" 来切换默认的环境
+    -->
+    <!-- 关联db.properties:为了把连接数据库的信息单独放到一个配置文件 -->
+    <properties resource="db.properties" />
+<!--    配置别名-->
+    <typeAliases>
+        <package name="org.cfx.domain"/>
+<!--        <typeAlias type="org.cfx.domain.Product" alias="Product"/>-->
+    </typeAliases>
+
+    <environments default="development">
+        <environment id="development">
+            <!--            事务管理器，type="JDBC"使用JDBC的事务管理 "JdbcTransaction"  -->
+            <transactionManager type="JDBC"/>
+            <!--            数据源配置 POOLED 连接池，对应 PooledDataSource-->
+            <dataSource type="POOLED">
+                <property name="driver" value="${driverClassName}"/>
+                <property name="url" value="${url}"/>
+                <property name="username" value="${username}"/>
+                <property name="password" value="${password}"/>
+            </dataSource>
+        </environment>
+
+        <!--        <environment id="test">-->
+        <!--  		...	-->
+        <!--        </environment>-->
+
+    </environments>
+    <mappers>
+        <mapper resource="org/cfx/mapper/ProductMapper.xml"/>
+    </mappers>
+</configuration>

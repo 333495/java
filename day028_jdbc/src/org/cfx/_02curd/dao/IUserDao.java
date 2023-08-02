@@ -14,6 +14,7 @@ public interface IUserDao {
      * @param user 用户输入
      * @return 0 1
      */
+
     int insertUser(User user);
 
     /**

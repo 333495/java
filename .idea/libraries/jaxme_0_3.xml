@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jaxme-0.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/day030_xml/lib/tools/jaxme-0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

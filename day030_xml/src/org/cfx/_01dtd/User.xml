@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<!DOCTYPE Users SYSTEM "user.dtd">-->
+<Users>
+    <User id="1">
+        <username id="1">ls</username>
+        <password>123</password>
+        <address>青羊区</address>
+    </User>
+    <User>
+        <username>66</username>
+        <password>222</password>
+        <address>金牛区</address>
+    </User>
+    <User id="3">
+        <username id="3">zs</username>
+        <password>666</password>
+        <address>北京</address>
+<!--        转译-->
+<!--        <condition><![CDATA[1<2]]></condition>-->
+<!--        小于-->
+<!--        <condition>1&lt;2</condition>-->
+<!--        大于-->
+<!--        <condition>1&gt;2</condition>-->
+    </User>
+    <User>
+        <username id="4">Leader</username>
+        <password>888</password>
+        <address>北京中南海</address>
+    </User>
+</Users>

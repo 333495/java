@@ -11,7 +11,7 @@ import java.util.List;
  * @author RTX 9090
  */
 public class UserServiceImpl implements IUserService {
-    private static IUserDao userDaoImpl = new UserDaoImpl();
+    private static final IUserDao userDaoImpl = new UserDaoImpl();
 
     @Override
     public int insertUser(User user) {

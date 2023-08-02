@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="xml-apis-2.0.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/day030_xml/lib/endorsed/xml-apis-2.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

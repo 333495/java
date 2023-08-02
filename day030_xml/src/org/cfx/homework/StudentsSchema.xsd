@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://ronghuanet.cn" elementFormDefault="qualified">
+    <xs:element name="students">
+        <xs:complexType>
+            <xs:sequence maxOccurs='unbounded'>
+                <xs:element name="student">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name='name' type='xs:string'/>
+                            <xs:element name='sex' type='xs:string'/>
+                            <xs:element name='age' type="xs:int" />
+                            <xs:element name='hobby' type='xs:string' />
+                            <xs:element name='birthday' type="xs:string" />
+                        </xs:sequence>
+                        <xs:attribute name="id" type="xs:long" use="required"/>
+                        <xs:attribute name="team" type="xs:long" use="required"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

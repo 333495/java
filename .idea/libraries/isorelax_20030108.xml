@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="isorelax-20030108">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/day030_xml/lib/tools/isorelax-20030108.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jsr173_1.0_ri">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/day030_xml/lib/test/jsr173_1.0_ri.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

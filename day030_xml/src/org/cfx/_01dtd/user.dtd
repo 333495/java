@@ -1,0 +1,6 @@
+<!ELEMENT Users (User+)>
+<!ELEMENT User (username,password,address,money)>
+<!ELEMENT username (#PCDATA)>
+<!ELEMENT password (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT money EMPTY>

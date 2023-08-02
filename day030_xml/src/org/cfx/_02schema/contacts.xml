@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts xmlns="http://ronghuanet.com"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+	xs:schemaLocation="http://ronghuanet.com  contactsSchema.xsd">
+	<linkman id="2334">
+		<name>gg</name>
+		<email>gg@ronghuanet.com</email>
+		<address>成都</address>
+		<group>蓉华教育</group>
+	</linkman>
+	<linkman id="45">
+		<name>gg</name>
+		<email>xiong@qq.com</email>
+		<address>阿斯顿发送到</address>
+		<group>蓉华教育</group>
+	</linkman>
+
+</contacts>

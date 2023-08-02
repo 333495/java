@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jtidy-4aug2000r7-dev">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/day030_xml/lib/tools/jtidy-4aug2000r7-dev.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

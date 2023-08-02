@@ -6,7 +6,6 @@ import org.cfx._02curd.service.Impl.UserServiceImpl;
 import org.junit.Test;
 
 import java.util.List;
-import java.util.Optional;
 import java.util.Scanner;
 
 public class UserServiceImplTest {
@@ -66,17 +65,10 @@ public class UserServiceImplTest {
         }
     }
 
-//    public static void main(String[] args) {
-//        login();
-//    }
+
 
     @Test
-    public void login(){
-//        Scanner scanner = new Scanner(System.in);
-//        System.out.println("请输入账号：");
-//        String username = scanner.next();
-//        System.out.println("请输入密码：");
-//        String password = scanner.next();
+    public  void login(){
 
         String username = "test";
         String password = "1234";
@@ -84,13 +76,9 @@ public class UserServiceImplTest {
         User userByName = userService.getUserByName(username);
 //        System.out.println(userByName);
         if (userByName != null){
-            if (userByName.getUsername().equals(username)){
-                if (userByName.getPassword().equals(password)){
-                    System.out.println("登录成功！");
-                }else {
-                    System.out.println("登录失败！");
-                }
-            }else {
+            if (userByName.getPassword().equals(password)) {
+                System.out.println("登录成功！");
+            } else {
                 System.out.println("登录失败！");
             }
         }else {

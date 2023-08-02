@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="lib (3)" level="project" />
+    <orderEntry type="module-library">
+      <library name="lib">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="lib (5)" level="project" />
+    <orderEntry type="library" name="xml-apis-2.0.2" level="project" />
+    <orderEntry type="library" name="jsr173_1.0_ri" level="project" />
+    <orderEntry type="library" name="junit-3.8.1" level="project" />
+    <orderEntry type="library" name="junitperf-1.8" level="project" />
+    <orderEntry type="library" name="isorelax-20030108" level="project" />
+    <orderEntry type="library" name="jaxme-0.3" level="project" />
+    <orderEntry type="library" name="jaxme-js-0.3" level="project" />
+    <orderEntry type="library" name="jaxme-xs-0.3" level="project" />
+    <orderEntry type="library" name="jtidy-4aug2000r7-dev" level="project" />
+    <orderEntry type="library" name="xalan-2.5.1" level="project" />
+    <orderEntry type="library" name="xercesImpl-2.6.2" level="project" />
+  </component>
+</module>
