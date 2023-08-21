@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/day029_jdbc/day029_jdbc.iml" filepath="$PROJECT_DIR$/day029_jdbc/day029_jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/day030_xml/day030_xml.iml" filepath="$PROJECT_DIR$/day030_xml/day030_xml.iml" />
       <module fileurl="file://$PROJECT_DIR$/day031_mybatis/day031_mybatis.iml" filepath="$PROJECT_DIR$/day031_mybatis/day031_mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day032_maven/day032_maven.iml" filepath="$PROJECT_DIR$/day032_maven/day032_maven.iml" />
       <module fileurl="file://$PROJECT_DIR$/extends&amp;abstract/extends&amp;abstract.iml" filepath="$PROJECT_DIR$/extends&amp;abstract/extends&amp;abstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/g/g.iml" filepath="$PROJECT_DIR$/g/g.iml" />
       <module fileurl="file://$PROJECT_DIR$/mytest_01/mytest_01.iml" filepath="$PROJECT_DIR$/mytest_01/mytest_01.iml" />

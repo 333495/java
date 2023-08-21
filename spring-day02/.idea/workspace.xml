@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48109bc7-73bb-4684-9dd7-212972cc1630" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_alibaba_druid_1_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__mysql_mysql_connector_java_8_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_mybatis_mybatis_3_5_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_projectlombok_lombok_1_18_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_slf4j_slf4j_api_2_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_aop_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_beans_6_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_context_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_core_6_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_expression_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_jcl_6_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_jdbc_6_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_tx_6_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_web_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day/day032_html&amp;css.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day031_mybatis/day031_mybatis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day032_maven/day032_maven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day032_maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day032_maven/src/main/java/org/cfx/domain/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day032_maven/src/main/java/org/cfx/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day032_maven/src/main/java/org/cfx/mapper/ProductMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day032_maven/src/main/java/org/cfx/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day032_maven/src/main/java/org/cfx/service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day032_maven/src/main/java/org/cfx/service/impl/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day032_maven/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day032_maven/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day032_maven/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day032_maven/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day032_maven/src/main/resources/org.cfx.mapper/ProductMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day032_maven/src/main/resources/spring-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day032_maven/src/test/java/org/cfx/service/impl/ProductServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day033_internet/day033_internet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day034_tomcat/day034_tomcat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day035_jsp&amp;el/day035_jsp&amp;el.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day036_jstl/day036_jstl.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day037_test/day037_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day37_maven/daytest/src/main/java/org/cfx/_01mapper/domain/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day37_maven/daytest/src/main/java/org/cfx/_01mapper/mapper/EmployeeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day37_maven/mybatis_03/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day37_maven/mybatis_03/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day37_maven/mybatis_03/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day37_maven/spring_day01/spring_day01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/IdeaWorkSpace/day012_interface&amp;polymorphic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../person-manager/person-manager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day031_mybatis/src/org/cfx/service/impl/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day031_mybatis/src/org/cfx/service/impl/ProductServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day031_mybatis/src/org/cfx/test/ProductServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day031_mybatis/src/org/cfx/test/ProductServiceImplTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="2U8Z0Vgxh1Lhy8CFkSyNYIUkOOp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="SDK" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\Desktop\IdeaWorkSpace\spring-day02\src\main\resources" />
+      <recent name="H:\Desktop\IdeaWorkSpace\spring-day02\src\main\java\org\cfx\_04proxy\_dynamic" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.cfx._03di" />
+      <recent name="org.cfx._05aop" />
+      <recent name="org.cfx._04proxy._dynamic" />
+      <recent name="org.cfx._04proxy._static" />
+      <recent name="org.cfx._02register" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.cfx._05aop" />
+      <recent name="org.cfx._04proxy._dynamic" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CglibDynamicTest.testDynamic">
+    <configuration name="AopTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cfx._05aop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.cfx._05aop" />
+      <option name="MAIN_CLASS_NAME" value="org.cfx._05aop.AopTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AopTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cfx._05aop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.cfx._05aop" />
+      <option name="MAIN_CLASS_NAME" value="org.cfx._05aop.AopTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CglibDynamicTest.testDynamic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cfx._04proxy._dynamic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.cfx._04proxy._dynamic" />
+      <option name="MAIN_CLASS_NAME" value="org.cfx._04proxy._dynamic.CglibDynamicTest" />
+      <option name="METHOD_NAME" value="testDynamic" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDKDynamicTest.save" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cfx._04proxy._dynamic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.cfx._04proxy._dynamic" />
+      <option name="MAIN_CLASS_NAME" value="org.cfx._04proxy._dynamic.JDKDynamicTest" />
+      <option name="METHOD_NAME" value="save" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceProxyTest.save" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cfx._04proxy._static.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.cfx._04proxy._static" />
+      <option name="MAIN_CLASS_NAME" value="org.cfx._04proxy._static.UserServiceProxyTest" />
+      <option name="METHOD_NAME" value="save" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CglibDynamicTest.testDynamic" />
+        <item itemvalue="JUnit.JDKDynamicTest.save" />
+        <item itemvalue="JUnit.UserServiceProxyTest.save" />
+        <item itemvalue="JUnit.AopTest.test" />
+        <item itemvalue="JUnit.AopTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="48109bc7-73bb-4684-9dd7-212972cc1630" name="变更" comment="" />
+      <created>1692322946209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692322946209</updated>
+      <workItem from="1692322947655" duration="6388000" />
+      <workItem from="1692338490376" duration="11889000" />
+      <workItem from="1692407633527" duration="4376000" />
+      <workItem from="1692412439294" duration="31000" />
+      <workItem from="1692584950462" duration="1000" />
+      <workItem from="1692585021564" duration="161000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

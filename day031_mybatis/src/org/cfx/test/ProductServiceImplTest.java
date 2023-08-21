@@ -41,7 +41,7 @@ public class ProductServiceImplTest {
 
     @Test
     public void update() {
-        productService.update(new Product(8L,"键盘113太",3,10.0,"联想","联想",0.79,299));
+        productService.update(new Product(10L,"键盘113太",3,10.0,"联想","联想",0.79,299));
     }
 
     @Test

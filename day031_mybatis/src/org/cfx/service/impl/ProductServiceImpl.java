@@ -4,11 +4,14 @@ import org.cfx.dao.IProductDao;
 import org.cfx.dao.impl.ProductDaoImpl;
 import org.cfx.domain.Product;
 import org.cfx.service.IProductService;
+import org.springframework.beans.factory.annotation.Autowired;
 
 import java.io.IOException;
 import java.util.List;
 
 public class ProductServiceImpl implements IProductService {
+
+    @Autowired
     IProductDao productDao = new ProductDaoImpl();
     @Override
     public void insert(Product product) {

@@ -3,6 +3,12 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="day032_maven" />
+      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="17">
       <module name="day003" target="" />
@@ -13,6 +19,7 @@
       <module name="day008_package" target="" />
       <module name="day01" target="" />
       <module name="day02" target="" />
+      <module name="day032_maven" target="1.8" />
       <module name="extends&amp;abstract" target="" />
       <module name="g" target="" />
       <module name="IdeaWorkSpace" target="" />

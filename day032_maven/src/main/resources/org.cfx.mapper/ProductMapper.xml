@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--
+    namespace:命名空间 ，规范写法：一般写这个mapper.xml所在的包的路径
+-->
+<mapper namespace="org.cfx.mapper.ProductMapper">
+    <!-- 查询语句 id是sql的id,在同一个mapper.xml中必须唯一
+        如何精准的找到一个SQL     namespace+id
+        resultType:返回的结果的实体类
+    -->
+
+    <!--  resultMap  结果集映射
+            id 手动映射的唯一标识
+            type 需要手动映射的java类的全限定名
+    -->
+
+    <resultMap id="MyMap" type="org.cfx.domain.Product">
+        <!--        id是主键专用-->
+        <id property="id" column="id"/>
+        <!--        column是表中的字段-->
+        <!--        property是类中的属性-->
+        <result column="productName" property="productName"/>
+        <result column="dir_id" property="dirId"/>
+        <result column="salePrice" property="salePrice"/>
+        <result column="supplier" property="supplier"/>
+        <result column="brand" property="brand"/>
+        <result column="cutoff" property="cutoff"/>
+        <result column="costPrice" property="costPrice"/>
+    </resultMap>
+
+
+    <select id="selectAll"  resultMap="MyMap">
+        select
+            id,
+            productName,
+            dir_id,
+            salePrice,
+            supplier,
+            brand,
+            cutoff,
+            costPrice
+        from product
+    </select>
+
+
+
+    <select id="getById" parameterType="long" resultMap="MyMap">
+        SELECT
+            id,
+            productName,
+            dir_id,
+            salePrice,
+            supplier,
+            brand,
+            cutoff,
+            costPrice
+        FROM product where id = #{id}
+    </select>
+
+    <!--    useGeneratedKeys 开启自动生成主键
+            keyProperty 实体类的id属性
+            keyColumn 数据库中的主键
+    -->
+    <insert id="insert" useGeneratedKeys="true" keyProperty="id" keyColumn="id" parameterType="org.cfx.domain.Product">
+        insert into product (productName, dir_id, salePrice, supplier,brand, cutoff, costPrice)
+        values (#{productName},#{dirId},#{salePrice},#{supplier},#{brand},#{cutoff},#{costPrice})
+    </insert>
+
+    <!--    #{} 占位符 防止sql注入 DQL QML-->
+    <!--    ${} 拼接 用get方法取值 DDL-->
+
+    <delete id="deleteById" parameterType="long">
+        delete from product where id = #{id}
+    </delete>
+    <!--        id 唯一标识-->
+    <!--    parameterType 入参类型-->
+    <!--    resultType 返回值类型-->
+    <update id="update" parameterType="long">
+        update product set productName = #{productName},dir_id=#{dirId},salePrice=#{salePrice}
+        where id = #{id}
+    </update>
+
+</mapper>
